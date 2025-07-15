@@ -23,3 +23,5 @@ Install dependencies using:
 
 ```bash
 pip install watchdog discord-webhook Pillow
+
+Please edit the first few lines of the file to add your webhook address, path to your saved images (if different), and a message you'd like sent with you uploaded images.
